@@ -8,6 +8,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+import com.example.android.inventoryappstage1copy.R;
+
 /**
  * Displays list of pets that were entered and stored in the app.
  */

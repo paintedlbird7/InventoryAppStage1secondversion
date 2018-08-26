@@ -7,6 +7,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.EditText;
 
+import com.example.android.inventoryappstage1copy.R;
 
 
 public class EditorActivity extends AppCompatActivity {
